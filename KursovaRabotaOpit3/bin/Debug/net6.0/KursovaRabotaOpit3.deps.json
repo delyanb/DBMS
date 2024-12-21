@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KursovaRabotaOpit3/1.0.0": {
+        "runtime": {
+          "KursovaRabotaOpit3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KursovaRabotaOpit3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
