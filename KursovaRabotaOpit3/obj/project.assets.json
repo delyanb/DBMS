@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dido\\source\\repos\\KursovaRabotaOpit3\\KursovaRabotaOpit3\\KursovaRabotaOpit3.csproj",
+      "projectUniqueName": "C:\\Users\\Dido\\OneDrive\\Документи\\GitHub\\DBMS\\KursovaRabotaOpit3\\KursovaRabotaOpit3.csproj",
       "projectName": "KursovaRabotaOpit3",
-      "projectPath": "C:\\Users\\Dido\\source\\repos\\KursovaRabotaOpit3\\KursovaRabotaOpit3\\KursovaRabotaOpit3.csproj",
+      "projectPath": "C:\\Users\\Dido\\OneDrive\\Документи\\GitHub\\DBMS\\KursovaRabotaOpit3\\KursovaRabotaOpit3.csproj",
       "packagesPath": "C:\\Users\\Dido\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dido\\source\\repos\\KursovaRabotaOpit3\\KursovaRabotaOpit3\\obj\\",
+      "outputPath": "C:\\Users\\Dido\\OneDrive\\Документи\\GitHub\\DBMS\\KursovaRabotaOpit3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dido\\AppData\\Roaming\\NuGet\\NuGet.Config",

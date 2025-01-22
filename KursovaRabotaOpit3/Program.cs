@@ -13,6 +13,7 @@ static class Program
             Console.Title = "SUBD";
             Console.Write("> ");
             string input = MyTrim(Console.ReadLine());
+            
             string[] commandParts = MySplit2(input);
 
 
@@ -25,6 +26,8 @@ static class Program
 
                 switch (command)
                 {
+                    case "":
+                        break;
                     case "CreateTable":
                         if (commandParts.Length >= 2)
                         {

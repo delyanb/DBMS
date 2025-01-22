@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KursovaRabotaOpit3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02d599d8efefd1fa2006bcbac8cfd0e338639c67")]
 [assembly: System.Reflection.AssemblyProductAttribute("KursovaRabotaOpit3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KursovaRabotaOpit3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
